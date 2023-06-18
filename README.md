@@ -1,4 +1,4 @@
-# park-game
+# Untitled Park Game
 Large Project #1 for Summer 2023. Still in the ideation and experimentation phase. More updates to come.
 
 ## Technologies
